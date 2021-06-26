@@ -10,7 +10,7 @@ Scope of variables can be defined as:
 
 Refer other sources for terms like **lexical scope** and **dynamic scope**.
 
-**When do nested functions act like a closure?**
+**When do nested functions act like a closure?**  
 When the outer function does not call the inner function, but returns the inner function, that is when it acts like a closure. This provides a dynamic nature to our function and can be used as per the needs. Also keeps the inner function secure from being tampered by any user.
 
 > Refer the code files above to understand functionalities of closures.  
