@@ -6,5 +6,6 @@ It implements the concept of nested functions and heavily uses scope of variable
 A very important one such scope is **nonlocal var**.
 
 > Refer the code files above to understand functionalities of closures.  
+
 [docstring_closure.ipynb](https://github.com/Divya932/Pythonic/blob/main/Closures_%26_Scope/docstring_closure.ipynb) contains code for a closure that takes a function and then checks whether the function passed has a docstring with more than 50 characters.  
 Concept Tags: free variables, docstrings
